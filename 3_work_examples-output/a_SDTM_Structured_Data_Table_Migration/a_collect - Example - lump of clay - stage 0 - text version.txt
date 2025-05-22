@@ -1,0 +1,1 @@
+There is a lump of clay that, at time t1, is used to make an aesthetically valuable statue. At time t2, the statue is destroyed. At time t3, the same lump of clay is reshaped to make a different statue. This statue is aesthetically valuable too.
