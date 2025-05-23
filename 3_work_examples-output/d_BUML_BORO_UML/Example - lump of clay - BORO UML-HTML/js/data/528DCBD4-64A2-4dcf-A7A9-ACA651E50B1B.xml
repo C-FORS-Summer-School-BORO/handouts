@@ -1,0 +1,10 @@
+tocTab[tocTab.length] = new Array("0.1.2.3:1", "", "Aesthetically Valuable Statues", "EARoot/EA1/EA2/EA3/EA108.htm", "5.png", "E1033", "0", "", "Class0","{0A654383-09FB-4413-9274-E0B0BE17CD14}");
+tocTab[tocTab.length] = new Array("0.1.2.3:2", "", "Clay Statues", "EARoot/EA1/EA2/EA3/EA109.htm", "5.png", "E1006", "0", "", "Class0","{D1E17216-1C61-496e-97B3-3E87AF894254}");
+tocTab[tocTab.length] = new Array("0.1.2.3:3", "", "Days", "EARoot/EA1/EA2/EA3/EA110.htm", "5.png", "E1007", "0", "", "Class0","{0F796E72-0EB7-42a7-8E94-DF7C35D0ED40}");
+tocTab[tocTab.length] = new Array("0.1.2.3:4", "", "«placeable sets» is made froms", "EARoot/EA1/EA2/EA3/EA111.htm", "5.png", "E1008", "0", "", "Class0","{8408F6C3-F7B6-4da5-B86B-5853F541C658}");
+tocTab[tocTab.length] = new Array("0.1.2.3:5", "", "Lumps of Clay", "EARoot/EA1/EA2/EA3/EA112.htm", "5.png", "E1005", "0", "", "Class0","{78C3BBD8-000C-4ca3-8D98-8AA3E470FFA2}");
+tocTab[tocTab.length] = new Array("0.1.2.3:6", "", "«placeable sets» occurs at days", "EARoot/EA1/EA2/EA3/EA113.htm", "5.png", "E1012", "0", "", "Class0","{FC23DA3A-E966-472e-9E87-9DD448EC613F}");
+tocTab[tocTab.length] = new Array("0.1.2.3:7", "", "«placeable sets» statue &#39;destroy&#39; existence events", "EARoot/EA1/EA2/EA3/EA114.htm", "5.png", "E1024", "0", "", "Class0","{B5D95F53-82D3-4278-8592-7DAE348B9517}");
+tocTab[tocTab.length] = new Array("0.1.2.3:8", "", "«placeable sets» statue &#39;make&#39; existence events", "EARoot/EA1/EA2/EA3/EA115.htm", "5.png", "E1023", "0", "", "Class0","{DC8A2FE5-AC70-40cb-80EB-7EB2DCFB85D7}");
+tocTab[tocTab.length] = new Array("0.1.2.3:9", "", "Statue Existence Boundaries", "EARoot/EA1/EA2/EA3/EA116.htm", "5.png", "E1004", "0", "", "Class0","{BA716125-B4E5-4983-BD3D-8CC6080FDAC1}");
+tocTab[tocTab.length] = new Array("0.1.2.3:10", "", "«placeable sets» statue existence events", "EARoot/EA1/EA2/EA3/EA117.htm", "5.png", "E1011", "0", "", "Class0","{BE66CBEF-1A60-4daa-B83D-ABD1596C97A9}");

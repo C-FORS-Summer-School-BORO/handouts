@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.2.1", "1", "stage 1 - load", "EARoot/EA1/EA2/EA1/EA96.htm", "4.png", "", "", "{9FB4093A-9040-4683-910B-AD6A1FE96767}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.2", "", "stage 2 - mereology (STM)", "EARoot/EA1/EA2/EA2/EA106.htm", "4.png", "", "", "{0868722A-B796-49dd-96E8-A2C7C4AEB24C}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.3", "1", "stage 3 - simle order types", "EARoot/EA1/EA2/EA3/EA107.htm", "4.png", "", "", "{528DCBD4-64A2-4dcf-A7A9-ACA651E50B1B}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.4", "", "stage 4 - placeable sets", "EARoot/EA1/EA2/EA4/EA118.htm", "4.png", "", "", "{C78366E0-9713-4634-BD06-65414AE21CEA}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.5", "1", "stage 5 - sub-super-set hierarchies", "EARoot/EA1/EA2/EA5/EA119.htm", "4.png", "", "", "{4FD3E3EB-F06D-40e8-862D-48FC072C1BA6}", "Package");
+tocTab[tocTab.length] = new Array("0.1.2.6", "1", "stage 6 - top level model integration", "EARoot/EA1/EA2/EA6/EA122.htm", "4.png", "", "", "{F6F14DCE-B6F3-40ff-9916-0785276AF128}", "Package");

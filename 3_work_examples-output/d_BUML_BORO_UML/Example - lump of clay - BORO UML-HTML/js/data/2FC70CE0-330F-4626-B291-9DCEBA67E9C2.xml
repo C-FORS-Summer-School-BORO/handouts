@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.1.1.6.1:1", "", "Top Level Model", "EARoot/EA1/EA1/EA6/EA1/EA66.htm", "175.png", "305", "0", "", "Logical diagram0","{DCA2729A-F034-4924-A5BD-E2E7278DD81F}");
+tocTab[tocTab.length] = new Array("0.1.1.6.1:2", "", "elements-sets", "EARoot/EA1/EA1/EA6/EA1/EA68.htm", "175.png", "307", "0", "", "Logical diagram0","{AD0F7776-AEB5-40da-8AC8-A729D5AE60A4}");
+tocTab[tocTab.length] = new Array("0.1.1.6.1:3", "", "parts-wholes", "EARoot/EA1/EA1/EA6/EA1/EA70.htm", "175.png", "308", "0", "", "Logical diagram0","{1F618794-43BA-44ca-9EDE-556F791DC6EB}");
+tocTab[tocTab.length] = new Array("0.1.1.6.1:4", "", "sub-super-sets", "EARoot/EA1/EA1/EA6/EA1/EA72.htm", "175.png", "306", "0", "", "Logical diagram0","{AC470227-06A7-491f-8995-7908CB3C06C9}");
+tocTab[tocTab.length] = new Array("0.1.1.6.1:5", "", "tuple places", "EARoot/EA1/EA1/EA6/EA1/EA74.htm", "175.png", "309", "0", "", "Logical diagram0","{B0D5C2B9-49A0-4d05-A0DE-9222687765D5}");

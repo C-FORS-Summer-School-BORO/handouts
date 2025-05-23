@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.1.3:1", "", "Aesthetically Valuable Statues", "EARoot/EA1/EA1/EA3/EA24.htm", "175.png", "296", "0", "", "Logical diagram0","{67576E11-5BC2-43d1-90FB-20A31BDD2016}");
+tocTab[tocTab.length] = new Array("0.1.1.3:2", "", "Clay Statues", "EARoot/EA1/EA1/EA3/EA26.htm", "175.png", "287", "0", "", "Logical diagram0","{4CF08524-39A8-49b1-BB27-3EF8DD296973}");
+tocTab[tocTab.length] = new Array("0.1.1.3:3", "", "Days", "EARoot/EA1/EA1/EA3/EA28.htm", "175.png", "288", "0", "", "Logical diagram0","{58662D74-CB20-4f5f-BA1E-248BDBD16164}");
+tocTab[tocTab.length] = new Array("0.1.1.3:4", "", "Lumps of Clay", "EARoot/EA1/EA1/EA3/EA30.htm", "175.png", "286", "0", "", "Logical diagram0","{F046A3B0-A91D-47cc-8046-24A9EF0F4CBE}");
+tocTab[tocTab.length] = new Array("0.1.1.3:5", "", "Statue Existence Boundaries", "EARoot/EA1/EA1/EA3/EA32.htm", "175.png", "285", "0", "", "Logical diagram0","{09AD94FF-95E4-4516-8586-EEE3A389931E}");
+tocTab[tocTab.length] = new Array("0.1.1.3:6", "", "mereology", "EARoot/EA1/EA1/EA3/EA34.htm", "175.png", "289", "0", "", "Logical diagram0","{E1A7803A-4949-41f5-A6CA-AB12FA9F44C8}");

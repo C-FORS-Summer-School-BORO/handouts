@@ -1,0 +1,15 @@
+tocTab[tocTab.length] = new Array("0.1.2.6:1", "", "parts-worldbound individuals wholes", "EARoot/EA1/EA2/EA6/EA124.htm", "5.png", "E589", "0", "", "Class0","{D03A88D7-F94A-480e-B136-6A7FAE5A6888}");
+tocTab[tocTab.length] = new Array("0.1.2.6:2", "", "temporal parts-worldbound individuals wholes", "EARoot/EA1/EA2/EA6/EA125.htm", "5.png", "E762", "0", "", "Class0","{41A1CECC-57B9-4b67-BE59-C238490FEE77}");
+tocTab[tocTab.length] = new Array("0.1.2.6:3", "", "Worldbound Individuals", "EARoot/EA1/EA2/EA6/EA126.htm", "5.png", "E388", "0", "", "Class0","{FF4E356E-9158-42d2-893E-71F5B790BFE8}");
+tocTab[tocTab.length] = new Array("0.1.2.6:4", "", "elements-sets", "EARoot/EA1/EA2/EA6/EA127.htm", "5.png", "E77", "0", "", "Class0","{9f7831f1-b4f3-11ec-804d-983b8ff7ba2e}");
+tocTab[tocTab.length] = new Array("0.1.2.6:5", "", "grounding relations", "EARoot/EA1/EA2/EA6/EA128.htm", "5.png", "E58", "0", "", "Class0","{9f7831de-b4f3-11ec-b276-983b8ff7ba2e}");
+tocTab[tocTab.length] = new Array("0.1.2.6:6", "", "Individuals", "EARoot/EA1/EA2/EA6/EA129.htm", "5.png", "E143", "0", "", "Class0","{9f7a93e8-b4f3-11ec-a0c9-983b8ff7ba2e}");
+tocTab[tocTab.length] = new Array("0.1.2.6:7", "", "Momentary Individuals", "EARoot/EA1/EA2/EA6/EA130.htm", "5.png", "E184", "0", "", "Class0","{9f7cf75f-b4f3-11ec-98c9-983b8ff7ba2e}");
+tocTab[tocTab.length] = new Array("0.1.2.6:8", "", "Objects", "EARoot/EA1/EA2/EA6/EA131.htm", "5.png", "E55", "0", "", "Class0","{9f7831db-b4f3-11ec-9a6d-983b8ff7ba2e}");
+tocTab[tocTab.length] = new Array("0.1.2.6:9", "", "parts-wholes", "EARoot/EA1/EA2/EA6/EA132.htm", "5.png", "E150", "0", "", "Class0","{9f7cf73d-b4f3-11ec-b591-983b8ff7ba2e}");
+tocTab[tocTab.length] = new Array("0.1.2.6:10", "", "Sets", "EARoot/EA1/EA2/EA6/EA133.htm", "5.png", "E70", "0", "", "Class0","{9f7831ea-b4f3-11ec-8a0d-983b8ff7ba2e}");
+tocTab[tocTab.length] = new Array("0.1.2.6:11", "", "sub-super-sets", "EARoot/EA1/EA2/EA6/EA134.htm", "5.png", "E80", "0", "", "Class0","{9f7831f4-b4f3-11ec-af04-983b8ff7ba2e}");
+tocTab[tocTab.length] = new Array("0.1.2.6:12", "", "Tuple Placeable Objects", "EARoot/EA1/EA2/EA6/EA135.htm", "5.png", "E128", "0", "", "Class0","{9f7a93d9-b4f3-11ec-ba21-983b8ff7ba2e}");
+tocTab[tocTab.length] = new Array("0.1.2.6:13", "", "tuple places", "EARoot/EA1/EA2/EA6/EA136.htm", "5.png", "E122", "0", "", "Class0","{9f7a93d3-b4f3-11ec-bd25-983b8ff7ba2e}");
+tocTab[tocTab.length] = new Array("0.1.2.6:14", "", "tuples", "EARoot/EA1/EA2/EA6/EA137.htm", "5.png", "E129", "0", "", "Class0","{9f7a93da-b4f3-11ec-8f95-983b8ff7ba2e}");
+tocTab[tocTab.length] = new Array("0.1.2.6.1", "1", "alternative option", "EARoot/EA1/EA2/EA6/EA1/EA138.htm", "4.png", "", "", "{AE371AFD-332B-42f8-9B0D-7A181209EB65}", "Package");
